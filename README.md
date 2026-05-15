@@ -1,1 +1,1 @@
-# coffee-sales-dahboard
+# Coffee Sales Dashboard
