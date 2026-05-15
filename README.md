@@ -1,4 +1,4 @@
-# ☕ Coffee Shop | 2023 Half-Time Review
+# Coffee Shop | 2023 Half-Time Review
 
 ## **1. Business Performance Overview**
 
