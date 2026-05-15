@@ -2,9 +2,9 @@
 
 ## **1. Business Performance Overview**
 
-## **2. Which Coffee Products Are Driving Revenue So Far in 2023?**
+## **2. Product Performance Breakdown**
 
-## **3. At What Time of Day See the Most Revenue?**
+## **3. Hourly Sales Performance Analysis**
 
 ## **4. Key Takeaway & Actionable Insights**
 
