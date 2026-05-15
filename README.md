@@ -1,4 +1,4 @@
-# Coffee Sales Dashboard
+# ☕ Coffee Shop | 2023 Half-Time Review
 
 ## **1. Business Performance Overview**
 
