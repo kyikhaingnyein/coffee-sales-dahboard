@@ -20,10 +20,10 @@ The dashboard analyzes coffee shop sales performance during the first half of 20
 
 ## **2. Product Performance Breakdown**
 
-**Total Sales by Product Category**
+**Total Sales by Product Category** <br>
 Coffee generated the highest toatl sales at $269.95K, followed by Tea at $196.41K and Bakery products at $82.32K. Beverage categories contribute the majority of overall revenue performance.
 
-**Top 10 Best-Selling Products by Total Sales**
+**Top 10 Best-Selling Products by Total Sales** <br>
 The highest-performing products are mainly premium coffee beverages and espresso-based drinks, including:
 - Davy Jones' Sustainable Blend
 - Jolly Roaster's Dark Roast
@@ -31,7 +31,7 @@ The highest-performing products are mainly premium coffee beverages and espresso
 - Karken Cappuccino
 These products consistently contribute the strongest revenue performance across the menu.
 
-**Top Selling Product Types**
+**Top Selling Product Types** <br>
 Barista Espresso, brewed coffee, and latte-based beverages show the highest customer demand, while packaged products and branded items generate comparatively lower sales contribution.
 
 **Product Insights**
